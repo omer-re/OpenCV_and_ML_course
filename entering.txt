@@ -1,3 +1,0 @@
-#cd C:\Users\omer.reuveni\Google Drive\OMER_PERSONAL\Omer\OpenCV_course
-conda activate python-cvcourse
-jupyter-lab
